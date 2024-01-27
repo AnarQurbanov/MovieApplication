@@ -1,0 +1,41 @@
+{
+    "login": {
+        "tab1": "Sign In",
+        "tab2": "Sign Up",
+        "signin": "Sign in",
+        "signup": "Sign up",
+        "enterEmail": "Enter Email",
+        "enterPassword": "Enter Password",
+        "enterUsername": "Enter Username",
+        "error": "Error",
+        "haveAccount": "Already have an account? ",
+        "createAccount": "Create new account ",
+        "passwordRequired": "Password required",
+        "leastSixChar": "at least 6 characters",
+        "emailDoesNotValid": "Email does not valid",
+        "usernameRequired": "Username Required"
+    },
+    "main": {
+        "home": {
+            "home": "Home",
+            "movie": "Movie"
+        },
+        "favori": {
+            "favorite": "Favorite",
+            "favoriteMovies": "Favorite Movies"
+        },
+        "account": {
+            "you": "You",
+            "logout": "Log Out",
+            "language": "Language",
+            "light": "Light",
+            "dark": "Dark",
+            "mode": "Mode"
+        },
+        "search": {
+            "search": "Search",
+            "movieNotFound": "Movies Not Found",
+            "noData": "No Data"
+        }
+    }
+}

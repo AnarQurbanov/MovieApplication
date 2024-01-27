@@ -1,0 +1,41 @@
+{
+    "login": {
+        "tab1": "Giriş Yap",
+        "tab2": "Kayıt Ol",
+        "signin": "Giriş yap",
+        "signup": "Kayıt ol",
+        "enterEmail": "Email Gir",
+        "enterPassword": "Şifre Gir",
+        "enterUsername": "Kullanıcı ismi gir",
+        "error": "Hata",
+        "haveAccount": "Zaten hesabın var mı? ",
+        "createAccount": "Yeni hesap yarat ",
+        "passwordRequired": "Şifre zorunlu",
+        "leastSixChar": "En az 6 karakter",
+        "emailDoesNotValid": "E-post geçerli değil",
+        "usernameRequired": "Kullanıcı ismi zorunlu"
+    },
+    "main": {
+        "home": {
+            "home": "Ana Sayfa",
+            "movie": "Film"
+        },
+        "favori": {
+            "favorite": "Favori",
+            "favoriteMovies": "Favori Filmler"
+        },
+        "account": {
+            "you": "Sen",
+            "logout": "Çıkış yap",
+            "language": "Dil",
+            "light": "Açık",
+            "dark": "Kapalı",
+            "mode": "Mod"
+        },
+        "search": {
+            "search": "Ara",
+            "movieNotFound": "Film Bulunamadı",
+            "noData": "Veri yok"
+        }
+    }
+}
